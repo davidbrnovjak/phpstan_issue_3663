@@ -1,0 +1,11 @@
+{
+    "name": "root/phpstan_test",
+    "type": "project",
+    "require": {
+        "phpstan/phpstan": "^0.12.33"
+    },
+
+    "repositories": [
+      { "type": "vcs", "url": "git@gitlab.com:netrex/enum.git" }
+    ]
+}
